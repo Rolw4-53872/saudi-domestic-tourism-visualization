@@ -297,17 +297,6 @@ jupyter notebook notebooks/saudi_tourism_analysis.ipynb
 
 ---
 
-## Team
-
-| Member | Contributions |
-|--------|--------------|
-| Rola Al-Salmi | Project introduction, Line Chart, Heat Map, Task & Design Justification |
-| Amal Al-Obaidi | Choropleth Map, Task & Design Justification |
-| Khadijah Filatah | Bar Chart, Task & Design Justification |
-| Amal Al-Zahrani | Data Abstraction, Scatter Plot, Task & Design Justification |
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
