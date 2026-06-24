@@ -269,16 +269,6 @@ saudi-domestic-tourism-visualization/
 ---
 
 ## How to Run
-
-### Option 1: Google Colab (Recommended)
-1. Open the notebook directly in Google Colab:
-   
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O9JtR55L-NAfZNJxrSV4hVX1N0ycCRWa?usp=sharing)
-
-2. The notebook will install all required packages automatically.
-3. Upload the dataset when prompted, or follow the data download instructions in `data/README.md`.
-
-### Option 2: Local Setup
 ```bash
 # Clone the repository
 git clone https://github.com/Rolw4-53872/saudi-domestic-tourism-visualization.git
